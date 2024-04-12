@@ -3,10 +3,10 @@
 Para realizar tu primer commit recuerda estos pasos:
 ## Preparar tu carpeta/entorno
 Crea una carpeta donde va a estar almacenado tu repo <br>
-<img src="./imgs/1.png">
+<img src="./imgs/1.png">  <br>
 Dentro de esta carpeta inicializa tu repositorio de git
 - Abre tu consola (puede ser tanto con CMD como con git bash)
-    - Si por ejemplo tu carpeta esta en (C:\Users\lcont\OneDrive\Documents\TutoGit) en git bash puedes hacer el siguiente comando: cd OneDrive\Documents\TutoGit. <br>
+    - Si por ejemplo tu carpeta esta en (C:\Users\lcont\OneDrive\Documents\TutoGit) en git bash puedes hacer el siguiente comando: cd OneDrive\Documents\TutoGit.
     Por defecto la consola de git inicia desde C:\Users\<usuario>\ 
 - Dentro de tu consola ejecutar el comando 
 ```
@@ -18,8 +18,9 @@ git init
 <img src="./imgs/3.png">
 - Dentro del readme.md escribir una pequeña descripcion rapida usando la sintaxis de Markdown <br>
 <img src="./imgs/4.png">
-- Una vez asegurado de que esten tus datos escritos, escribe los siguientes comando:
-``` bash
+- Una vez asegurado de que esten tus datos escritos, escribe los siguientes comando:  <br>
+
+```
 git add README.md
 git commit -m "first commit"
 git branch -M main
