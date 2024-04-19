@@ -35,7 +35,7 @@ Una vez que hayas hecho los pasos basicos para subir tus archivos verifica que s
 ![alt text](imgs/3_2.png)  
 ![alt text](imgs/4_2.png)  
 Como podemos ver los archivos ya existen en nuestro repo, si se dan cuenta arriba a la izquierda aparece una lista con las ramas, en este caso solo existe master, vamos a cambiar esto.  
-4. **CREAR UNA NUEVA RAMA**
+4. **CREAR UNA NUEVA RAMA**  
 Ya que tenemos nuestro projecto de programacion subido, creemos una nueva rama con el comando   
 ```bash
 git branch dev
